@@ -22,9 +22,15 @@ Tr998877
 
 {% tabs %}
 {% tab title="IOS14系统" %}
-#### **IOS 14**位置（点击设置→最上面的头像→点击媒体与购买项目→点击退出登录→然后登录上面提供的ID）
+#### **IOS 14**位置
 
-![](../.gitbook/assets/image%20%281%29.png)
+打开应用商店后点击右上角的头像
+
+![](../.gitbook/assets/app-store-1.jpg)
+
+然后翻到最下面点击退出登录，然后登录文中的美区ID。
+
+![](../.gitbook/assets/app-store-2.jpg)
 {% endtab %}
 
 {% tab title="IOS13系统" %}
