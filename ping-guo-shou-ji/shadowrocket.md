@@ -9,13 +9,13 @@
 #### Apple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
 
 ```text
-netv2@foxmail.com
+storeyz@foxmail.com
 ```
 
 #### Apple ID 密码（登录时如果提示密码错误，请注意密码有大小写）
 
 ```text
-Tr998877
+Dd667788
 ```
 
 ### 1. IOS14 和IOS13包括以往版本登录商店位置不同，请参考图片
@@ -31,6 +31,12 @@ Tr998877
 然后翻到最下面点击退出登录，然后登录文中的美区ID。
 
 ![](../.gitbook/assets/app-store-2.jpg)
+
+
+
+登录时会提示升级账户安全，请选择其他选项，然后不升级
+
+![](../.gitbook/assets/app-store-3.jpg)
 {% endtab %}
 
 {% tab title="IOS13系统" %}
